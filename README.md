@@ -1,4 +1,5 @@
 # SystemArchitectRelease
+*** THIS REPOSITORY IS NOW ARCHIVED ***
 System Architect Release Packages
 These packages are auto-generated weekly for each of the CoreGen and CoreGenPortal packages (the latter is currently disabled). 
 
